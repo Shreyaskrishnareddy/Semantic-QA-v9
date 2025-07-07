@@ -1,0 +1,24 @@
+
+# IDE files
+yarn-error.log*
+Thumbs.db
+# Environment variables
+.env.local
+*.swp
+*.swo
+.env.*.local
+.DS_Store?
+# OS generated files
+.idea/
+.vscode/
+ehthumbs.db
+yarn-debug.log*
+.DS_Store
+npm-debug.log*
+*~
+.Spotlight-V100
+.env
+*.log
+.Trashes
+# Logs
+._*
